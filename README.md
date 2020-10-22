@@ -6,3 +6,6 @@
 
 ### mnist-improcessing.py
 画像処理によるデータ拡張を施す
+
+### Main-cMLPgan.py
+conditional MLPGAN
