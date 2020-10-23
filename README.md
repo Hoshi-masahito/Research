@@ -9,3 +9,6 @@
 
 ### Main-cMLPgan.py
 conditional MLPGAN
+
+### mnist_mlpganDA_300.py
+conditional mlpganの生成した画像でデータ拡張を行って学習を行う
